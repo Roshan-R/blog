@@ -1,23 +1,20 @@
-site: Asko
+site: Roshan-R
 url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+title: Roshan-R
+description: Welcome to my blog
 googlewebfonts: Fira+Code:wght@400;500;700
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  #twitter: #yourusername
+  name: Roshan R Chandar
   avatar:
-  email: #youremail
+  email: roshan@cet.ac.in
   url: #yoururl
 permalink: pretty
 
 baseurl: ""
 
 highlighter: rouge
+#highlighter: pygments
 
 exclude:
   - .jekyll-cache
